@@ -16,7 +16,7 @@ Hi! I am Lucas Pegoretti
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  (https://github.com/lucasouzape/lucasouzape/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  ![Snake animation](https://github.com/lucasouzape/lucasouzape/blob/output/github-contribution-grid-snake.svg)
+  
