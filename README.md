@@ -1,7 +1,7 @@
 Hi! I am Lucas Pegoretti
 
-- 🔭 I’m currently working in backend
-- 🌱 I’m currently learning NodeJs
+- 🔭 I’m currently working in data science
+- 🌱 I’m currently learning data
 - 📫 Contact me by email: lucasouzape@gmail.com
 
 <div align="center">
