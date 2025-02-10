@@ -1,7 +1,7 @@
 Hi! I am Lucas Pegoretti
 
 - 🔭 I’m currently working in QA
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang/Java
 - 📫 Contact me by email: lucasouzape@gmail.com
 
 
